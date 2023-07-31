@@ -1,0 +1,12 @@
+.home {
+    font-size: 2rem;
+    color: rgba(192, 38, 206, 0.223);
+}
+
+nav {
+    position: fixed;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
